@@ -3,15 +3,17 @@
 ## Purpose of this document
 This study guide should help you understand what to expect on the exam and includes a summary of the topics the exam might cover and links to additional resources. The information and materials in this document should help you focus your studies as you prepare for the exam.
 
-### | Useful links | Description |
-|----------|----------|
-| [How to earn the certification](https://example.com) | Some certifications only require passing one exam, while others require passing multiple exams. |
-| [Certification renewal](https://example.com) | Microsoft associate, expert, and specialty certifications expire annually. You can renew by passing a free online assessment on Microsoft Learn. |
-| [Your Microsoft Learn profile](https://example.com) | Connecting your certification profile to Microsoft Learn allows you to schedule and renew exams and share and print certificates. |
-| [Exam scoring and score reports) | A score of 700 or greater is required to pass. |
-| [Exam sandbox](https://example.com) | You can explore the exam environment by visiting our exam sandbox. |
-| [Request accommodations](https://example.com) | If you use assistive devices, require extra time, or need modification to any part of the exam experience, you can request an accommodation. |
-| [Take a free Practice Assessment](https://example.com) | Test your skills with practice questions to help you prepare for the exam. |
+| Useful Links                                               | Description                                                                                  |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [How to earn the certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Some certifications only require passing one exam, while others require multiple exams.       |
+| [Certification renewal](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification) | Microsoft associate, expert, and specialty certifications expire annually and can be renewed. |
+| [Your Microsoft Learn profile](https://learn.microsoft.com/en-us/users) | Connecting your certification profile allows you to manage exams and certificates.            |
+| [Exam scoring and score reports](https://learn.microsoft.com/en-us/credentials/certifications/exam-scoring-reports) | A score of 700 or greater is required to pass.                                                |
+| [Exam sandbox](https://learn.microsoft.com/en-us/credentials/certifications/request-accommodations) | Explore the exam environment via the sandbox.                                                |
+| [Request accommodations](https://learn.microsoft.com/en-us/credentials/certifications/request-accommodations) | Request accommodations if you need extra time or modifications to the exam experience.        |
+| [Take a free Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21) | Test your skills with practice questions to help you prepare for the exam.                    |
+
+
 
 # 	Description
 How to earn the certification	Some certifications only require passing one exam, while others require passing multiple exams.
