@@ -1,4 +1,4 @@
-# Preview Features
+# 5 - Access Preview Features
 
 ## 🎯 Goal:
 Understand how to access and utilize Azure's preview features for evaluating upcoming services and functionalities.
