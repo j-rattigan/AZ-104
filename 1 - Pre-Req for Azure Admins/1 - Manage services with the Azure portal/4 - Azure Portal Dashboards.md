@@ -1,4 +1,4 @@
-# 6-customize-the-dashboard
+# 4 - Azure Portal Dashboards.md
 
 ## 🎯 Goal:
 Learn how to create and customize dashboards in the Azure portal to efficiently monitor and manage resources.
