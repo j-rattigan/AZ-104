@@ -1,4 +1,4 @@
-# 1-introduction
+# 1 - Introduction
 
 ## 🎯 Goal:
 Learn what the Azure portal is, why it's useful, and how to navigate it.
