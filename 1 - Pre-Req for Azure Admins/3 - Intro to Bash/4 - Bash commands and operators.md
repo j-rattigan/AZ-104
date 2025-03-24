@@ -24,8 +24,6 @@ This section focuses on essential Bash commands that help in navigating the file
 |                        | top     | Provides an interactive, real-time view of the system’s processes. |
 |                        | kill    | Sends a signal to terminate a process.                        |
 
-
-
 ### Extra Details
  - File Permissions: Use chmod to modify the permissions of a file or directory.
  - Redirection: Use > to redirect output to a file and >> to append output to a file.
