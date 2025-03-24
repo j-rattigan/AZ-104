@@ -1,4 +1,4 @@
-# 2 Azure Management Options
+# 2 - Azure Management Options
 
 ## 🎯 Goal:
 Understand how to manage resources and services in Azure using the Azure portal.
