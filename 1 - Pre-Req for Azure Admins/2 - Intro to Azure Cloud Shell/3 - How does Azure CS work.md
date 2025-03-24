@@ -1,4 +1,4 @@
-#🎯 Goal:
+# 🎯 Goal:
 Understand how Azure Cloud Shell works behind the scenes.
 
 ## 🧠 1. Important
