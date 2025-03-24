@@ -1,48 +1,32 @@
-# 🎯 Goal:
-Understand Azure Preview Features, how to access them, and how to track new updates.
+# Preview Features
 
-## 🧠 1. Important
+## 🎯 Goal:
+Understand how to access and utilize Azure's preview features for evaluating upcoming services and functionalities.
 
-### What are Azure Preview Features?
-Azure Preview Features let you try out new, unreleased services and tools before they officially launch. These can include:
-- New storage types
-- New Azure services (e.g., Machine Learning improvements)
-- Enhanced integrations with other platforms
-- New APIs
+## 🧠 1. Break it Down
 
-### ⚠️ IMPORTANT:
-- Each preview has specific terms and conditions.
-- Some previews might not be covered by Azure support.
-- Once a feature is fully tested, it moves to General Availability (GA) — meaning it's now part of the standard Azure product set.
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Important**
+- **Definition**: Preview features in Azure are prerelease services or functionalities available for evaluation before general release.&#8203;:contentReference[oaicite:0]{index=0}
+- **Terms and Conditions**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
 
-### How to Find Preview Features
-1 - Go to the Preview Features page in the Azure portal.
-2 - It lists all active previews available for evaluation.
-3 - Click a feature to learn more and enable it.
-4 - Subscribe to the RSS Feed on this page for updates.
-5 - Search for "Preview" in the Azure portal and select Preview features from the results.
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Key Features**
+- **Types of Previews**:
+  - :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+  - :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+  - :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+  - :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- **Access Points**:
+  - **Preview Features Page**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+  - **Azure Portal**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+  - **Preview Portal URL**: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
 
-### Azure Portal Preview
-- Try the Azure portal’s new interface and functionality by visiting https://preview.portal.azure.com.
-- This version offers performance, navigation, and accessibility improvements.
-- The top bar will say Microsoft Azure (Preview) so you know you’re in the right place.
+### ![#f0e15d](https://placehold.co/15x15/f0e15d/f0e15d.png) **Supporting Details/Examples**
+- **Feedback Mechanism**: :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
+- **General Availability (GA)**: :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
+- **Updates**: :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
 
-### Provide Feedback on Previews
-Use the Feedback icon in the portal to share thoughts or report issues.
-
-### Track Azure Updates and GA Releases
-1 - Go to the Azure Updates page to see what’s new.
-2- Filter by General Availability, Preview, or Development stages.
-3- Browse by product or update type.
-4- Search for specific updates with keywords.
-5- Subscribe to RSS notifications to stay informed.
-
-## 🔍 2. My Own Words
-Azure Preview Features are like sneak peeks at new Azure tools and services. They’re still being tested, so you might run into bugs or limits — but you can give feedback to help improve them before they’re officially released.
+## 🔍 2. Summary
+:contentReference[oaicite:23]{index=23}&#8203;:contentReference[oaicite:24]{index=24}
 
 ## 🔥 3. Analogy
-Think of Azure Preview Features like a video game beta test. You get early access to new levels, characters, or mechanics — but things might break, and you can give feedback to help developers fix it before the final release.
-
-## ✅ 4. One-Sentence Summary
-Azure Preview Features let you explore and test upcoming Azure services, providing feedback before they’re finalized and released to the public.
-
+:contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
