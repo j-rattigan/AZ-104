@@ -1,4 +1,4 @@
-# 3-navigate-the-portal
+# 3 - Navigate the Portal
 
 ## 🎯 Goal:
 Learn how to efficiently navigate the Azure portal to find and manage resources.
