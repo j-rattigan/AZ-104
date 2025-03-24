@@ -19,7 +19,7 @@ Microsoft Entra Domain Services provides domain services like Group Policy manag
 ![Microsoft Entra Domain Services Overview](https://learn.microsoft.com/en-us/training/modules/understand-azure-active-directory/media/6-1.png)
 
 ## 🔍 2. Simplified Explanation & Analogy
-### In one sentence:
+### One-Sentence Summary:
 It streamlines authentication and access management in the cloud without on-premises infrastructure.
 
 ### Analogy:
