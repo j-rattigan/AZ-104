@@ -23,7 +23,3 @@ Azure Cloud Shell is a cloud-based environment that’s ready to use without nee
 
 ## 🔥 3. Analogy
 Think of Azure Cloud Shell like a fully stocked toolbox that you can open anywhere. Whether you’re at home, at work, or on the go, you don't have to carry anything with you. Everything you need is right there, and it stays organized every time you use it.
-
-## ✅ 4. One-Sentence Summary
-Azure Cloud Shell is a convenient, pre-configured environment in the cloud that helps you manage and automate Azure tasks without needing to install anything locally.
-
