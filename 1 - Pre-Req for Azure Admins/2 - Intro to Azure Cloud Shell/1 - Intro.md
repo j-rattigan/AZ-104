@@ -1,7 +1,7 @@
 # 🎯 Goal:
 Understand what Azure Cloud Shell is, what it’s used for, and how to access it.
 
-# 🧠 1. Important
+## 🧠 1. Important
 
 ### What is Azure Cloud Shell?
  - Azure Cloud Shell is an interactive, browser-based shell that lets you manage Azure resources.
