@@ -7,22 +7,13 @@ Learn about commonly used Bash commands and how to use them to manage files, dir
 This section focuses on essential Bash commands that help in navigating the file system, managing files and directories, and handling processes. Understanding these commands is crucial for working effectively with the terminal.
 
 ###  Key Features
-| Category               | Command | Description                                                   |
-|------------------------|---------|---------------------------------------------------------------|
-| **Navigation Commands** | pwd     | Prints the current working directory.                         |
-|                        | ls      | Lists the files and directories in the current directory.     |
-|                        | cd      | Changes the current directory.                                |
-| **File Manipulation**   | cp      | Copies files or directories.                                  |
-|                        | mv      | Moves or renames files or directories.                        |
-|                        | rm      | Removes files or directories.                                 |
-|                        | touch   | Creates a new empty file or updates an existing file’s timestamp. |
-| **Viewing Files**       | cat     | Displays the content of a file.                               |
-|                        | less    | Views a file’s content one page at a time, useful for large files. |
-|                        | head    | Views the first few lines of a file.                          |
-|                        | tail    | Views the last few lines of a file.                           |
-| **Process Management**  | ps      | Displays information about active processes.                  |
-|                        | top     | Provides an interactive, real-time view of the system’s processes. |
-|                        | kill    | Sends a signal to terminate a process.                        |
+| Category               | Description                                      | Commands                         |
+|------------------------|--------------------------------------------------|----------------------------------|
+| **Navigation Commands** | Commands to navigate directories.                | `pwd`, `ls`, `cd`                |
+| **File Manipulation**   | Commands to copy, move, remove, and create files.| `cp`, `mv`, `rm`, `touch`        |
+| **Viewing Files**       | Commands to display or view file content.        | `cat`, `less`, `head`, `tail`    |
+| **Process Management**  | Commands to monitor and control processes.       | `ps`, `top`, `kill`              |
+
 
 ### Extra Details
  - File Permissions: Use chmod to modify the permissions of a file or directory.
