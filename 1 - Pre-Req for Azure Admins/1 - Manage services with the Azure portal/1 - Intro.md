@@ -1,7 +1,7 @@
 # 🎯 Goal:
 Learn how to navigate and manage resources in the Azure portal.
 
-## 🧠 Important
+## 🧠 1. Important
 
 ### What's this about?
 Azure is a cloud platform that provides computing, storage, and networking resources. The Azure portal is the main interface for managing these resources — you can create, monitor, and customize services through it.
