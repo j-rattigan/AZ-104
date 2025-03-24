@@ -22,6 +22,3 @@ Bash is a command-line tool used to interact with and control your computer or s
 
 ## 🔥 3. Analogy
 Imagine Bash as a super-powered remote control for your computer. Instead of clicking on things with a mouse, you type out commands, and it does all the work for you—fast and efficiently. It's like having your own personal assistant who follows instructions exactly as you say them.
-
-## ✅ 4. One-Sentence Summary
-Bash is a powerful command-line tool used for managing tasks, automating processes, and controlling the environment in Unix-based systems and cloud platforms like Azure.
