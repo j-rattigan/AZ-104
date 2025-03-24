@@ -19,25 +19,7 @@ Learn how to make your ARM templates more flexible by using parameters and outpu
 
 The available properties for a parameter are:
 
-| Example        |
-|----------------|
-| "parameters": { |
-|   "<parameter-name>": { |
-|     "type": "<type-of-parameter-value>", |
-|     "defaultValue": "<default-value-of-parameter>", |
-|     "allowedValues": [ |
-|       "<array-of-allowed-values>" |
-|     ], |
-|     "minValue": <minimum-value-for-int>, |
-|     "maxValue": <maximum-value-for-int>, |
-|     "minLength": <minimum-length-for-string-or-array>, |
-|     "maxLength": <maximum-length-for-string-or-array-parameters>, |
-|     "metadata": { |
-|       "description": "<description-of-the-parameter>" |
-|     } |
-|   } |
-| } |
-
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/ebfd219c-38ae-4434-bcea-1df335ce5a58" />
 
 The allowed types of parameters are:
 - string
