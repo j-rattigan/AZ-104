@@ -16,6 +16,38 @@ Learn how to make your ARM templates more flexible by using parameters and outpu
 - Parameters can be used to adjust resource names, SKUs, and other settings.
 - Outputs allow you to capture values from deployed resources, like a storage account’s endpoint.
 
+
+The available properties for a parameter are:
+
+| Example        |
+|----------------|
+| "parameters": { |
+|   "<parameter-name>": { |
+|     "type": "<type-of-parameter-value>", |
+|     "defaultValue": "<default-value-of-parameter>", |
+|     "allowedValues": [ |
+|       "<array-of-allowed-values>" |
+|     ], |
+|     "minValue": <minimum-value-for-int>, |
+|     "maxValue": <maximum-value-for-int>, |
+|     "minLength": <minimum-length-for-string-or-array>, |
+|     "maxLength": <maximum-length-for-string-or-array-parameters>, |
+|     "metadata": { |
+|       "description": "<description-of-the-parameter>" |
+|     } |
+|   } |
+| } |
+
+
+The allowed types of parameters are:
+- string
+- secureString
+- integers
+- boolean
+- object
+- secureObject
+- array
+
 ## 🔍 2. Summary
 Parameters make your ARM templates flexible by allowing input for different deployments, while outputs enable easy access to deployed resource data.
 
