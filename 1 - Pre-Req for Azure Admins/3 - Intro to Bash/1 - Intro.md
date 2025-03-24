@@ -1,4 +1,4 @@
-# 0-introduction
+# 1 - Intro
 
 ## 🎯 Goal:
 Understand the basics of Bash and its role in managing Linux systems.
