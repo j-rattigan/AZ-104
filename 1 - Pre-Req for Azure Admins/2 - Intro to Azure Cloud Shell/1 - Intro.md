@@ -20,8 +20,10 @@ Understand what Azure Cloud Shell is, what it’s used for, and how to access it
 1 - Through the Azure Portal:
  - Go to https://portal.azure.com
  - Select the Cloud Shell icon (top-right, looks like a terminal)
+
 2 - Direct URL:
  - Visit https://shell.azure.com
+
 3 - Azure Mobile App:
  - You can open Cloud Shell from the Azure mobile app too!
 
