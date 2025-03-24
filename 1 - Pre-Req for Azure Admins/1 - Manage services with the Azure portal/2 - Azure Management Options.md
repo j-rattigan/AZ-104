@@ -1,7 +1,7 @@
 # 🎯 Goal:
 Understand different Azure management tools and when to use each one.
 
-## 🧠 Important
+## 🧠 1. Important
 ### What's this about?
 Azure offers multiple ways to manage and control cloud resources — from web interfaces to command-line tools, mobile apps, and even developer-friendly SDKs and APIs.
 
