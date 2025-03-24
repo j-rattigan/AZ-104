@@ -1,7 +1,7 @@
-#🎯 Goal:
+# 🎯 Goal:
 Understand different Azure management tools and when to use each one.
 
-##🧠 1. Break It into Chunks
+## 🧠 1. Break It into Chunks
 
 ### Chunk 1: What's this about?
 Azure offers multiple ways to manage and control cloud resources — from web interfaces to command-line tools, mobile apps, and even developer-friendly SDKs and APIs.
@@ -19,11 +19,11 @@ Azure offers multiple ways to manage and control cloud resources — from web in
 - Azure Cloud Shell bonus: Pre-configured with many dev tools like text editors and source control.
 - Mobile app perk: Supports role-based access control (RBAC) and shows alerts.
 
-##🔍 2. Rephrase in Your Own Words
+## 🔍 2. Rephrase in Your Own Words
 Azure gives you a bunch of ways to manage your resources. If you like a visual interface, the portal is great. If you prefer typing commands (or want to automate things), PowerShell and CLI are faster. The Cloud Shell is like having a portable command line in your browser, and the mobile app lets you stay connected to Azure on the go.
 
-##🔥 3. Add an Analogy
+## 🔥 3. Add an Analogy
 Managing Azure is like controlling a smart home — the Azure portal is your touchscreen dashboard, PowerShell and CLI are like voice commands (fast and efficient), Cloud Shell is like a remote control you can use from anywhere, and the mobile app is your smart home app to check things while you're out.
 
-##✅ 4. One-Sentence Summary
+## ✅ 4. One-Sentence Summary
 Azure gives you flexible tools — from GUI to command line to mobile — to manage resources however you prefer, whether you're at your desk or on the go.
