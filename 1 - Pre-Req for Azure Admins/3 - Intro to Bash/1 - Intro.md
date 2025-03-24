@@ -1,26 +1,29 @@
-# 1 - Intro
+# 0-introduction
 
 ## 🎯 Goal:
-Learn the basics of Bash, the standard shell scripting language for Linux, to effectively manage Linux systems.
+Understand the basics of Bash and its role in managing Linux systems.
 
 ## 🧠 1. Break it Down
 
 ### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Important**
-- **Bash Fundamentals:** Understanding what shells are and the role of Bash in interacting with the operating system.&#8203;:contentReference[oaicite:0]{index=0}
-- **Command Syntax:** :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+- **Bash** is the standard shell scripting language for Linux, essential for system administration tasks.
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Key Features**
-- **Essential Commands:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **I/O Redirection:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **System Management:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- **Azure Integration:** :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- **Shells**: Interfaces that allow users to interact with the operating system via commands.
+- **Bash Syntax**: The structure and rules governing how commands are written and executed in Bash.
+- **Common Commands**:
+  - `ls`: Lists directory contents.
+  - `cat`: Displays the contents of files.
+  - `ps`: Shows currently running processes.
 
 ### ![#f0e15d](https://placehold.co/15x15/f0e15d/f0e15d.png) **Supporting Details/Examples**
-- **Practical Application:** :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Learning Path:** :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+- **I/O Operators**: Tools to redirect input and output, such as using `>` to direct output to a file.
+- **System Updates**: Commands to update a server's operating system, ensuring security and efficiency.
+- **Process Management**: Techniques to identify and terminate rogue processes that may consume excessive resources.
+- **Azure CLI Integration**: Utilizing Bash to filter and manage Azure Command-Line Interface outputs.
 
 ## 🔍 2. Summary
-:contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
+Bash is like a magic wand for talking to and controlling Linux computers, letting you run commands to manage files, programs, and the system itself.
 
 ## 🔥 3. Analogy
-:contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
+Think of Bash as the remote control for your Linux TV—it lets you change channels (navigate directories), adjust the volume (manage processes), and customize settings (configure the system) all from your couch (command line).
