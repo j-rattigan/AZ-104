@@ -17,8 +17,10 @@ Understand what Azure Cloud Shell is, its key features, and why it’s useful.
  - ✅ Secure: Authenticates using your Azure account and inherits your permissions.
 
 ### Ways to Access Cloud Shell
-1 - Azure Portal: Click the Cloud Shell icon (top-right corner).
+1 - Azure Portal: Click the Cloud Shell icon (top-right corner)
+
 2 - Direct URL: Go to https://shell.azure.com
+
 3 - Azure Mobile App: Launch Cloud Shell on your phone.
 
 ## 🔍 2.  My Own Words
@@ -27,6 +29,4 @@ Azure Cloud Shell is like a portable, always-ready command line for managing Azu
 ## 🔥 3. Analogy
 It’s like having a Swiss Army knife for Azure — a ready-to-go toolkit that works anywhere, anytime.
 
-## ✅ 4. One-Sentence Summary
-Azure Cloud Shell is a browser-based command line that comes pre-loaded with tools, supports both Bash and PowerShell, and saves your work — all without installing anything.
 
