@@ -6,7 +6,9 @@ Understand how Azure Cloud Shell works behind the scenes.
 ### The Setup Process
 When you first open Cloud Shell:
 1 - Storage Setup: Azure automatically creates a storage account and file share (5GB).
+
 2 - Environment Choice: Choose Bash or PowerShell — you can switch anytime.
+
 3 - Shell Starts: A container with pre-installed tools spins up — ready to use.
 
 ### What Happens Under the Hood?
