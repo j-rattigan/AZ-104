@@ -1,25 +1,24 @@
-# 🎯 Goal:  
-Understand what Cmdlets are and how they work in PowerShell.  
+# 3 - Locate commands
 
-## 🧠 1. Important  
+## 🎯 Goal:
+Learn what cmdlets are, how to use them, and how to discover and filter them efficiently.
 
-### What's this about?  
-Cmdlets (pronounced "command-lets") are lightweight, built-in commands designed for specific tasks in PowerShell.  
+## 🧠 1. Break it Down
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Important**
+- Cmdlets follow a verb-noun naming pattern (e.g., `Get-Command`).
+- Use cmdlets like `Get-Command`, `Get-Help`, and `Get-Member` to explore and learn about available commands.
 
-### Key Features  
-- **Verb-Noun format:** Commands follow this pattern (e.g., `Get-Process`).  
-- **Built-in help:** Use `Get-Help` to learn how any cmdlet works.  
-- **Consistent behavior:** Cmdlets handle objects and integrate with pipelines.  
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Key Features**
+- Thousands of cmdlets available.
+- Verb-noun structure helps in understanding and searching cmdlets.
+- `Get-Command` and `Get-Help` assist in discovering and getting help for cmdlets.
 
-### Extra Details  
-- **Common verbs:** Get, Set, New, Remove, Start, Stop.  
-- **Aliases:** Shortcuts for common cmdlets (e.g., `ls` is an alias for `Get-ChildItem`).  
+### ![#f0e15d](https://placehold.co/15x15/f0e15d/f0e15d.png) **Supporting Details/Examples**
+- Use `-Verb` and `-Noun` flags to filter cmdlet searches.
+- Cmdlet names should follow approved verbs for consistency.
 
-## 🔍 2. My Own Words  
-Cmdlets are like mini-tools that follow a "verb-noun" pattern — they do specific jobs like fetching, changing, or stopping things on your system.  
+## 🔍 2. Summary
+Cmdlets are commands in PowerShell, named in a verb-noun pattern, and are used for managing and automating tasks. You can explore them with `Get-Command` and filter them using flags.
 
-## 🔥 3. Analogy  
-Cmdlets are like LEGO blocks — small, reusable, and can snap together to build bigger, more useful commands.  
-
-## ✅ 4. One-Sentence Summary  
-Cmdlets are the core commands of PowerShell, designed to handle specific tasks in a consistent, easy-to-use format.  
+## 🔥 3. Analogy
+Think of cmdlets like specific tools in a toolbox, each named after what they do — like a "hammer" or "screwdriver" — making it easy to pick the right one for the job.
